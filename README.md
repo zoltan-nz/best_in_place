@@ -438,3 +438,7 @@ Fork the project on [github](https://github.com/bernat/best_in_place 'bernat / b
 Code by [Bernat Farrero](http://bernatfarrero.com) from [Itnig Web Services](http://itnig.net) (it was based on the [original project](http://github.com/janv/rest_in_place/) of Jan Varwig) and released under [MIT license](http://www.opensource.org/licenses/mit-license.php).
 
 Many thanks to the contributors: [Roger Campos](http://github.com/rogercampos), [Jack Senechal](https://github.com/jacksenechal) and [Albert Bellonch](https://github.com/albertbellonch).
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/szines/best_in_place/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
